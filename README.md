@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi there 👋,  I'm ntdev204<br>🔭 I’m currently working on NTDEV
-<img src="https://photos.app.goo.gl/9QHQ6ipr5zqxmKmbA" alt="..." />
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thien.hn2512) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ntdev204) 
 
