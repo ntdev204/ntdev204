@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋,  I'm ntdev204<br>🔭 I’m currently working on NTDEV
-<img src="[https://...](https://lh3.googleusercontent.com/pw/AIL4fc9grVKVa_Kcobp-uRNLdwB7Df0SltGNR9v6XTMv7sEbG7BsEzbW53JCefGhQ-JeaKvm2nsn27B4dieGC_50SgagbqXXN1kfrGM0j-CfFPe-QKKUw8cPA_pYTXfw0j71iUAbjWBPQGlVO9iVI8TLukyDfT4xhWKidPiTsa43YQcdnij5CDg1LqHp2V0SCSSyZPl9fBEFj8-tKjnD0zMCZ2bVgwNsfF91BtWrYjP3rhEUi-wlTupBtSOTia3qMo20aOLWKn2v-zVfJ6V0XvUhgn_u0tXN43Qa47mf206QaMv1-Up5EfcTOhKOpgVuOkhcaqmSlIO-nBjYgy3j_WGrFpKb90tpVCnCP1YRy8ChnmmhAvwWRhaUQ2Y27DrtO6dUw0r00-NZNR8_xifp_sfILbXNM2sIgYfc79jcWYhugiGzqLGAav97OJDm7pQ6g9hGcXdOJaazm6F-lavFh9jMo-E77khLC97ExDIX05k-2HMPIKCAR3QfzvbIPJOUvlHFmleru0LI-_bCmQMd7hiaK2pwK_4Mm-8PWrFRNhmp3uCg0Oz58aKjZlRHo42dPAm5h5Qj6EtKQj6lnX3eZXchgljhBAJL3Cx3FT78B8oavB0IwXn16orfKHeY2qQAc1NZy8BsU9z-irAWJBmJKZl0IFSpx_sOE6UsqJVge8oecGwC8KkxMetJQo9gz_Z45oPt6Ib-lL5yV21UyN9ssBbSwsBT58QZ-M-jbivNee50XKnuksEI5ft-ZAdFVUcBDfeWJ1G9iE5pdwpEF3aRAdW7j4uDK0oCe_Em6MOkVJ89TjTrcoR9mZPwwb8F6-C7y0PY3WUc-ExPo4kuNFPY59LNz11e9RhKxAAahkKoVpaPKOIT7qsnTOovC9hzRIGsoLteD1_Y16dLGdnzgkPV9llQ=w1640-h924-s-no?authuser=0)" alt="..." width="250" />
+<img src="https://photos.app.goo.gl/9QHQ6ipr5zqxmKmbA" alt="..." />
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thien.hn2512) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ntdev204) 
 
