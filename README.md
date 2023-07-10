@@ -1,4 +1,4 @@
-<img src="./bg.png" alt="">
+<img src="./img.png" alt="">
 
 # 💫 About Me:
 Hi there 👋,  I'm ntdev204<br>🔭 I’m currently working on NTDEV
