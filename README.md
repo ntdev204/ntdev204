@@ -1,4 +1,4 @@
-<img src="./image.png" alt="">
+
 
 # 💫 About Me:
 Hi there 👋,  I'm ntdev204<br>🔭 I’m currently working on NTDEV
