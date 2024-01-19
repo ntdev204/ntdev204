@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Hello, everyone. I'm Nguyen Ngoc Thien, hailing from Thai Nguyen, Vietnam. I'm currently 19 years old and a sophomore at the University of Transport and Communications, majoring in Robotics Artificial Intelligence.<br><br>I'm a web developer with experience in utilizing technologies such as TypeScript, ReactJS, NextJS, NodeJS, and several others. Through my studies at the university and practical work, I've acquired knowledge and skills in the development of high-quality web applications.<br><br>Furthermore, I'm continually striving to learn and stay updated on new developments in the field of artificial intelligence to apply them to my projects and research. I firmly believe that artificial intelligence technology will play a substantial role in the future, and I'm eager to contribute to its development and application in various domains.</p>
+<p align="left">Hello, everyone. I'm Nguyen Ngoc Thien, came from Thai Nguyen, Vietnam. I'm currently 19 years old and a sophomore at the University of Transport and Communications, majoring in Robotics Artificial Intelligence.<br><br>I'm a web developer with experience in utilizing technologies such as TypeScript, ReactJS, NextJS, NodeJS, and several others. Through my studies at the university and practical work, I've acquired knowledge and skills in the development of high-quality web applications.<br><br>Furthermore, I'm continually striving to learn and stay updated on new developments in the field of artificial intelligence to apply them to my projects and research. I firmly believe that artificial intelligence technology will play a substantial role in the future, and I'm eager to contribute to its development and application in various domains.</p>
 
 ###
 
