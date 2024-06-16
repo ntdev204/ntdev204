@@ -1,49 +1,115 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/ntdev204/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/ntdev204" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
-  </a>
+### About me🧑:
+
+I am Fullstack Developer student<br/>
+I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
+
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
+
+- 🌱 I’m currently learning Fullstack Development.
+- 👯 I’m looking to collaborate with Fullstack Webs.
+- 🤔 I’m looking for help with Open source Contribution.
+- 💬 Ask me about Frontend and JavaScript.
+- 😄 Pronouns: Ren
+- ⚡ Fun fact: I 💖 to code 24x7.
+
+<br/>
+
+---
+
+<details>
+<summary>
+Languages and Tools🛠:
+</summary>
+  <br/>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+</details>
+
+---
+
+<details>
+<summary> Connect with me🤝: </summary>
+
+<br/>
+
+<a href="https://github.com/ntdev204">
+  <img align="left" alt="Ren's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://www.instagram.com/elchemist0503/">
+  <img align="left" alt="Ren's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://www.facebook.com/elchemist.0503">
+  <img align="left" alt="Ren's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://twitter.com/Elchemist0503">
+  <img align="left" alt="Ren's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://linkedin.com/in/tien-ly-7559941b3/">
+  <img align="left" alt="Ren's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
+
+</details>
+
+---
+
+### Github Activity
+
+<div>
+
+<a href="https://github.com/ntdev204">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntdev204&langs_count=6&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ntdev204">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntdev204&theme=tokyonight" />
+</a>
+
+<br/>
+<a href="https://github.com/ntdev204">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ntdev204&column=7&theme=onedark" />
+</a>
+<br/>
+<br/>
+
 </div>
 
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ntdev204/count.svg?"  />
-</div>
 
-###
 
-<h1 align="center">Hey there 👋</h1>
+### Show ❤️ by 🌟 my [repositories](https://github.com/ntdev204?tab=repositories)!
 
-###
+## </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+Credits: [ntdev204](https://github.com/ntdev204)
 
-###
-
-<p align="left">Hello, everyone. I'm Nguyen Ngoc Thien, came from Thai Nguyen, Vietnam. I'm currently 19 years old and a sophomore at the University of Transport and Communications, majoring in Robotics Artificial Intelligence.<br><br>I'm a web developer with experience in utilizing technologies such as TypeScript, ReactJS, NextJS, NodeJS, and several others. Through my studies at the university and practical work, I've acquired knowledge and skills in the development of high-quality web applications.<br><br>Furthermore, I'm continually striving to learn and stay updated on new developments in the field of artificial intelligence to apply them to my projects and research. I firmly believe that artificial intelligence technology will play a substantial role in the future, and I'm eager to contribute to its development and application in various domains.</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntdev204&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntdev204&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ntdev204&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ntdev204&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ntdev204/ntdev204/output/snake.svg" alt="Snake animation" />
-
-###
+Last Edited on: 1/1/2022
