@@ -1,6 +1,6 @@
 ### About me🧑:
 
-I am Fullstack Developer student<br/>
+I am Fullstack Developer<br/>
 I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
