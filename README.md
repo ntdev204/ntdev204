@@ -3,8 +3,6 @@
 I am Fullstack Developer<br/>
 I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
-
 - 🌱 I’m currently learning Fullstack Development.
 - 👯 I’m looking to collaborate with Fullstack Webs.
 - 🤔 I’m looking for help with Open source Contribution.
