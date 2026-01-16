@@ -10,8 +10,8 @@ I'm a passionate developer from Thai Nguyen, Viet Nam, with a keen interest in b
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Your Latest Project/Innovation]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Advanced GoLang & Distributed Systems** <!-- TODO: Add what you're currently learning -->
+- 🔭 Working on: **NTDEV** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Robotics engineer & Automation** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source Projects focusing on AI/ML or Web3**
 - 💬 Ask me about: **Full-Stack Development, Cloud Computing (AWS), and creating clean, maintainable code.** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I can debug code while sipping on Vietnamese iced coffee!** <!-- TODO: Add a fun fact -->
